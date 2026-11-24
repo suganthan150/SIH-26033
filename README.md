@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:24/11/2026
 ## Reference Number:26012354
-## Name:sugathan V
+## Name: Sugathan V
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -39,7 +39,7 @@ Farm2Home is a digital marketplace that connects farmers and Farmer Producer Org
 2. **Methodology and Process for Implementation:** Develop a web-based digital marketplace with separate farmer and customer interfaces. Implement voice-based product listing in local languages using speech recognition. Store product and user information in a database. Enable customers to browse products, place orders, and make UPI payments. Integrate AI-based price recommendations, demand forecasting, and route optimization. Use village collection hubs to coordinate product collection and delivery. Develop a working prototype to demonstrate the complete process.
 
    
-## Mindmap for proposed solition 
+## Mindmap for proposed solution 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/34a30e79-170c-459a-816c-18c6ff0dc682" />
 
