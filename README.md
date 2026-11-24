@@ -39,6 +39,9 @@ Farm2Home is a digital marketplace that connects farmers and Farmer Producer Org
 2. **Methodology and Process for Implementation:** Develop a web-based digital marketplace with separate farmer and customer interfaces. Implement voice-based product listing in local languages using speech recognition. Store product and user information in a database. Enable customers to browse products, place orders, and make UPI payments. Integrate AI-based price recommendations, demand forecasting, and route optimization. Use village collection hubs to coordinate product collection and delivery. Develop a working prototype to demonstrate the complete process.
 
    
+## Mindmap for proposed solition 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/34a30e79-170c-459a-816c-18c6ff0dc682" />
 
 ## Feasibility and Viability
 
@@ -56,8 +59,12 @@ Farm2Home helps farmers earn better profits by connecting them directly with con
 ## Research and References
 
 
+1. National Agriculture Market (e-NAM) – https://www.enam.gov.in/web/
 
-1. Government of India – Ministry of Agriculture and Farmers Welfare.
-2. Ministry of Consumer Affairs, Food & Public Distribution.
-3. National Agriculture Market (e-NAM).
-4. Research on digital agricultural marketplaces, AI-based demand forecasting, and supply chain management.
+2. Ministry of Agriculture and Farmers Welfare – https://agriwelfare.gov.in/
+
+3. Ministry of Consumer Affairs, Food and Public Distribution – https://dfpd.gov.in/
+
+4. NITI Aayog – Agriculture Demand and Supply Research – https://www.niti.gov.in/
+
+5. Food and Agriculture Organization (FAO) – https://www.fao.org/
